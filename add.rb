@@ -17,5 +17,3 @@ def add(n1,n2)
   end
   sum
 end
-
-puts add([2,3,4],[5,3,1])

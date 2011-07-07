@@ -1,6 +1,6 @@
 #This will add two numbers with the same number of digits
 
-def add(n1,n2)
+def last(n1,n2)
   sum = []
   carry = 0
   position = n1.length
@@ -17,5 +17,3 @@ def add(n1,n2)
   end
   sum
 end
-
-puts add([2,3,4],[5,3,1])
